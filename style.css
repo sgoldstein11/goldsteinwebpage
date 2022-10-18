@@ -1,1 +1,50 @@
 
+
+#Dorothy {
+    background-color: DarkSeagreen;
+}
+
+#Sophia {
+    background-color: #AED8EE;
+}
+
+#Rose {
+    background-color:#B4A7D6;
+}
+
+#Blanche {
+    background-color:#FFE599;
+}
+
+h1 {
+    background-color: pink;
+}
+
+.actress {
+    font-family: sans-serif;
+    font-style: italic;
+    color: black;
+    background-color: beige;
+    border: 2px black;
+}
+
+.grid {
+  border: 2px black solid;
+  width: 1000px;
+  height: 1500px;
+  display: grid;
+  grid-rows: repeat( 5, 1fr);
+  grid-gap: 8px
+}
+
+#watch {
+    background-color:pink;
+    font-size: 50px; 
+    text-decoration: none; 
+    font-family: sans-serif;
+}
+
+.description {
+    font-family: sans-serif;
+    
+}
